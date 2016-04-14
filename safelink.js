@@ -58,7 +58,7 @@ if(a_to_vh==false)
 {var
 
  
-encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="http://unlocklink.blogspot.com/p/is-your-link.html?url="+
+encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="http://unlocklink.blogspot.co.id/2016/04/3-ways-your-health-insurance-company-is.html?url="+
 
  encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ 
 a_to_ve[i].href+"\n";}}
